@@ -1,0 +1,20 @@
+{"id": "S01", "type": "forecast_change", "total_change": -71100, "movements": {"won": 29600, "lost": 55800, "pushed_out": 0, "new_or_pulled_in": 14300, "amount_change": 0}, "biggest_driver": "lost"}
+{"id": "S02", "type": "forecast_change", "total_change": -32800, "movements": {"won": 34700, "lost": 51100, "pushed_out": 0, "new_or_pulled_in": 53000, "amount_change": 0}, "biggest_driver": "new_or_pulled_in"}
+{"id": "S03", "type": "forecast_change", "total_change": -119200, "movements": {"won": 30100, "lost": 117800, "pushed_out": 0, "new_or_pulled_in": 28700, "amount_change": 0}, "biggest_driver": "lost"}
+{"id": "S04", "type": "forecast_change", "total_change": -263000, "movements": {"won": 126000, "lost": 284000, "pushed_out": 0, "new_or_pulled_in": 147000, "amount_change": 0}, "biggest_driver": "lost"}
+{"id": "S05", "type": "inspect_three", "deals_with_planted_problems": ["D1264", "D1173", "D1047", "D1188", "D1124"], "best_three": ["D1264", "D1173", "D1047"], "problems": {"D1264": ["serial_slipper"], "D1173": ["serial_slipper"], "D1047": ["serial_slipper"], "D1188": ["serial_slipper"], "D1124": ["serial_slipper"]}}
+{"id": "S06", "type": "inspect_three", "deals_with_planted_problems": ["D1044", "D1060", "D1062", "D1057", "D1274", "D1149", "D1116", "D1047"], "best_three": ["D1044", "D1060", "D1062"], "problems": {"D1044": ["mis_staged"], "D1060": ["serial_slipper"], "D1062": ["abandoned"], "D1057": ["serial_slipper"], "D1274": ["abandoned"], "D1149": ["serial_slipper"], "D1116": ["happy_ears"], "D1047": ["serial_slipper"]}}
+{"id": "S07", "type": "inspect_three", "deals_with_planted_problems": ["D1286", "D1155", "D1271"], "best_three": ["D1286", "D1155", "D1271"], "problems": {"D1286": ["abandoned", "happy_ears"], "D1155": ["abandoned"], "D1271": ["serial_slipper"]}}
+{"id": "S08", "type": "inspect_three", "deals_with_planted_problems": ["D1341", "D1186", "D1081", "D1345", "D1329"], "best_three": ["D1341", "D1186", "D1081"], "problems": {"D1341": ["duplicate"], "D1186": ["serial_slipper"], "D1081": ["abandoned"], "D1345": ["duplicate"], "D1329": ["mis_staged"]}}
+{"id": "S09", "type": "commit_credible", "commit_called": 29600, "commit_actually_won": 29600, "credible": true}
+{"id": "S10", "type": "commit_credible", "commit_called": 171000, "commit_actually_won": 86000, "credible": false}
+{"id": "S11", "type": "commit_credible", "commit_called": 118000, "commit_actually_won": 118000, "credible": true}
+{"id": "S12", "type": "commit_credible", "commit_called": 49000, "commit_actually_won": 49000, "credible": true}
+{"id": "S13", "type": "stage_check", "verdict": "abandoned"}
+{"id": "S14", "type": "stage_check", "verdict": "mis_staged"}
+{"id": "S15", "type": "stage_check", "verdict": "stalled"}
+{"id": "S16", "type": "stage_check", "verdict": "no_issue"}
+{"id": "S17", "type": "weighted_math", "weighted_total": 169120}
+{"id": "S18", "type": "weighted_math", "weighted_total": 222590}
+{"id": "S19", "type": "weighted_math", "weighted_total": 141370}
+{"id": "S20", "type": "weighted_math", "weighted_total": 209660}
